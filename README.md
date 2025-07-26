@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Filipe de Deus
 
 <a href="#">
-  <img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=filipededeus&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
+  <img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=f-dedeus&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
 </a>
 
 ## 🎯 Fullstack Developer | Backend Specialist
@@ -73,12 +73,12 @@ I'm a **Fullstack Developer** with a strong focus on **backend development**, pa
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=filipededeus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=filipededeus&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=f-dedeus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=f-dedeus&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipededeus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-dedeus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -135,7 +135,7 @@ I'm passionate about **collaborative development** and always open to new opport
   
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=filipededeus&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=f-dedeus&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   
 </div>
 
